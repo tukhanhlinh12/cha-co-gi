@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(59, 216, 216);
+}
+
+h4 {
+    color: gray;
+}
+
+h2 {
+    color: dodgerblue;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.card {
+    border-radius: 10px;
+    background-color: #fff;
+    width: 20%;
+    overflow: hidden;
+    margin: auto;
+}
+.content{
+    width: 100%;
+    padding: auto;
+}
+.img{
+    width: 100%;
+}
