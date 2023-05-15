@@ -1,0 +1,137 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+table {
+    width: 100%;
+    font-size: 25px;
+    background-color: rgb(32, 207, 32);
+}
+
+h3.head-active {
+    font-family: "Comic sans MS";
+    color: black;
+}
+
+.header {
+    color: azure;
+    background-color: black;
+}
+
+.wrap-content {
+    background-color: black;
+}
+
+.wrap-content-head {
+    color: greenyellow;
+    justify-content: center;
+    display: flex;
+    font-size: 30px;
+}
+
+.wrap-content-img {
+    width: 30%;
+}
+
+img {
+    width: 300px;
+}
+
+.wrap-content-text {
+    color: azure;
+    width: 60%;
+}
+
+.wrap-content-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+.project {
+    background-color: gray;
+}
+
+.project-head {
+    color: black;
+    font-size: 35px;
+    justify-content: center;
+    display: flex;
+}
+
+.project-content {
+    width: 60%;
+}
+
+.project-img {
+    width: 30%;
+}
+
+.project-start {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+ul {
+    font-size: 25px;
+}
+
+ul.abc {
+    font-size: 20px;
+}
+
+.achievement-head {
+    font-size: 35px;
+    justify-content: center;
+    display: flex;
+    color: yellowgreen;
+}
+
+.achievement {
+    background-color: black;
+}
+
+.achievement-content {
+    color: azure;
+}
+
+.contact {
+    background-color: gray;
+}
+
+.contact-head {
+    font-size: 35px;
+    justify-content: center;
+    display: flex;
+}
+
+.contact-form {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+input {
+    width: 250px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    color: rgb(19, 202, 19);
+    background-color: black;
+    padding: 10px;
+}
+
+p.text {
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 40px;
+}
