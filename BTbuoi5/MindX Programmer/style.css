@@ -1,0 +1,145 @@
+body {
+    text-align: center;
+}
+
+.container-head {
+    background-color: #e4f9f5;
+    width: 1500px;
+    height: 910px;
+    padding-top: 100px;
+}
+
+.image-head {
+    justify-content: flex-end;
+    display: flex;
+    width: 1250px;
+}
+
+.text {
+    text-decoration: underline;
+}
+
+p.text-head {
+    font-family: "Montserrat", sans-serif;
+    font-size: 45px;
+    color: #66bfbf;
+}
+
+h1 {
+    font-family: "Satisfy", cursive;
+    font-size: 90px;
+    color: #66bfbf;
+}
+
+.title-head {
+    display: flex;
+    justify-content: center;
+}
+
+.note {
+    display: flex;
+    justify-content: center;
+}
+
+.image-cloudy {
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    padding: 35px;
+}
+
+.image-mountain {
+    display: flex;
+    justify-content: center;
+}
+
+.container-middle {
+    background-color: rgb(255, 255, 255);
+    width: 1500px;
+    height: 1795px;
+    padding-top: 100px;
+}
+
+.image-face {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+
+img.face {
+    border-radius: 50%;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: "Montserrat", sans-serif;
+    color: #66bfbf;
+}
+
+.title-middle {
+    display: flex;
+    justify-content: center;
+}
+
+p.text-middle {
+    font-size: 20px;
+}
+
+.note-middle {
+    display: flex;
+    justify-content: center;
+}
+
+hr {
+    border: dotted rgb(173, 178, 219);
+    width: 4%;
+    border-bottom: none;
+    margin: 100px auto;
+}
+
+.title-body {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+.note-body {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    font-size: 28px;
+    color: #66bfbf;
+}
+
+p.lorem {
+    font-size: 18px;
+}
+
+.note-last {
+    display: flex;
+    justify-content: center;
+}
+
+a.button {
+    background-color: #11cdd4;
+    color: azure;
+    text-decoration: none;
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    font-size: 25px;
+    border-radius: 10px;
+    padding: 10px 20px 10px 20px;
+}
+
+.container-footer {
+    background-color: #66bfbf;
+    width: 1500px;
+    padding-top: 100px;
+}
+
+a {
+    padding-top: 20px;
+    margin: 10px 20px;
+    color: #11999e;
+}
