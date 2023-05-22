@@ -1,0 +1,96 @@
+body{
+    margin: 0px;
+}
+.menu-top{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 25px 10px 0px;
+    box-shadow: 1px 5px rgba(0, 0, 0, 0.20);
+    overflow: hidden;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.head{
+    font-size: 36px;
+}
+.menu-item{
+    display: flex;
+    gap: 20px;
+    font-size: 25px;
+    padding-top: 10px;
+}
+.link-menu{
+    font-size: 20px;
+}
+a{
+    color: rgb(29, 29, 241);
+}
+.content-middle{
+    padding: 5px 1px;
+    display: flex;
+}
+.look-up{
+    font-size: 17px;
+    border-radius: 50px;
+    box-sizing: border-box;
+    width: 250px;
+    padding: 12px 20px;
+}
+.task-menu{
+    background-color: #ececec;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 1px;
+    padding-left: 15px;
+    text-align: center;
+    overflow: hidden;
+    position: fixed;
+    top: 66px;
+    height: 100%;
+}
+.ok{
+    padding: 9px 15px;
+    border-radius: 30px;
+    background-color: #4caf50;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    box-shadow: 1px 5px #999;
+}
+.production{
+    padding-top: 70px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 290px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+}
+.cake{
+    padding-top: 1px;
+    padding-right: 1px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    box-shadow: 5px 5px #00000057;
+}
+img{
+    width: 284px;
+    height: 280px;
+}
+p{
+    color: red;
+    font-size: 20px;
+}
+.footer{
+    background-color: #d3d3d3;
+    text-align: center;
+    font-size: 18px;
+    overflow: hidden;
+    position: fixed;
+    top: 700px;
+    width: 100%;
+}
