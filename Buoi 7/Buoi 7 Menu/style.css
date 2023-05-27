@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div> ul li a{
+    display: block;
+    border-radius: 5px;
+    color: #f1f2f3;
+    text-decoration: none;
+    padding-top: 15px;
+}
+.taskbar{
+    background-color: #484848;
+    display: flex;
+}
+ul.menu{
+    display: flex;
+}
+li{
+    list-style: none;
+    font-size: 18px;
+}
+a{
+    padding: 20px 20px 20px 20px;
+}
+a:hover{
+    background-color: red;
+    color: yellow;
+}
