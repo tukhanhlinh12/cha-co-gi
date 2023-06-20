@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: rgba(15, 90, 227, 0.763);
+}
+
+h1 {
+    text-align: center;
+}
+
+.triangle {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.triangle span {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: #cb0808c3;
+    border-radius: 50%;
+    margin: 2px;
+}
