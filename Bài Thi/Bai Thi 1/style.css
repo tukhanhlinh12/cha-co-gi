@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: rgb(52, 218, 52);
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="number"] {
+    width: 300px;
+    padding: 10px;
+}
+
+button {
+    padding: 13px;
+    background-color: #d32444;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#result {
+    margin-top: 20px;
+}
+span{
+    font-size: 20px;
+}
